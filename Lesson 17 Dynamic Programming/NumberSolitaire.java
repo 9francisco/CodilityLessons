@@ -47,11 +47,7 @@ Complexity:
 expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(N) (not counting the storage required for input arguments). */
 
-// you can also use imports, for example:
- import java.util.*;
-
-// you can write to stdout for debugging purposes, e.g.
-// System.out.println("this is a debug message");
+import java.util.*;
 
 class Solution {
     public int solution(int[] A) {
